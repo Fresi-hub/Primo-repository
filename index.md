@@ -12,7 +12,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # MENU'PIZZE:
 
-
+ <li>Margherita  € 5,00</li>
+      <li>Napoletana € 7,50</li>
+      <li>Funghi € 7,50</li>
+      <li>Carciofini € 7,50</li>
 
 
 
