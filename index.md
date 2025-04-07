@@ -1,14 +1,9 @@
 ---
 layout: default
 ---
-
-
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,n initial-scale=1.0">
+<meta name="description" content="La PIZZ - Un unico sapore">
 
 # MENU'PIZZE:
 
