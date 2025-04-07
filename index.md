@@ -15,14 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 MARGHERITA (pomodoro - mozzarella)                                 € 5,50
 NAPOLETANA (pomodoro - mozzarella - acciughe - origano)            € 7,50
 FUNGHI (pomodoro - mozzarella - funghi trifolati)                  € 7,50
-CARCIOFINI (pomodoro - mozzarella - carciofini)                    € 7,50
-CIPOLLA (pomodoro - mozzarella - cipolla)                          € 6,50
-PEPERONI (pomodoro - mozzarella - peperoni)                        € 6,50
-MELANZANE (pomodoro - mozzarella - melanzane)                      € 7,50
-FUNGHI FRESCHI (pomodoro - mozzarella - funghi freschi champignon) € 7,50
-ZUCCHINE (pomodoro - mozzarella - zucchine)                        € 6,50
-SALSICCIA (pomodoro - mozzarella - salsiccia)                      € 7,50
-SALAME PICCANTE (pomodoro - mozzarella - salame piccante)          € 7,50
+
 
 
 
