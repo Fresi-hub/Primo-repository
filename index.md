@@ -12,9 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # MENU'PIZZE:
 
-MARGHERITA (pomodoro - mozzarella)                                 € 5,50
-NAPOLETANA (pomodoro - mozzarella - acciughe - origano)            € 7,50
-FUNGHI (pomodoro - mozzarella - funghi trifolati)                  € 7,50
+
 
 
 
